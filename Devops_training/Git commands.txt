@@ -1,0 +1,14 @@
+Git: 
+To push code on to git repo
+1) i will do git clone
+2) i will update the code on my local machine
+3) I will git add 
+4) git status to check status of file what changed
+5) Then after i will do a "git commit -m "message"
+6) then will do  a "git push"
+
+To switch between branches:
+
+1) git checkout <branch_name>
+2) git branch
+3) git branch -r
